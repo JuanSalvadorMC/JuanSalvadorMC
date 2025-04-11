@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Salvador Martínez Cervantes
 
-<!--
-**JuanSalvadorMC/JuanSalvadorMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Desarrollador Frontend | Especializado en Angular y Arquitectura Web
 
-Here are some ideas to get you started:
+Soy Ingeniero en Sistemas Computacionales egresado del Tecnológico de Estudios Superiores de Huixquilucan. Tengo experiencia desarrollando soluciones web para el sector bancario y fintech, utilizando tecnologías modernas como Angular 19, microfrontends y despliegue continuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías que domino
+- **Frontend:** Angular (incluyendo Angular 19 y Signals), HTML5, CSS3, JavaScript, TypeScript
+- **Diseño:** Atomic Design, Responsive Design
+- **Arquitectura:** Microservicios, Microfrontends, Clean Code
+- **CI/CD:** GitHub Actions, GitLab CI/CD
+- **Testing:** Jasmine, Karma
+- **Control de versiones:** Git, GitHub
+
+---
+
+## 🧠 Actualmente aprendiendo
+- Inglés (Duolingo + Anki)
+- Mejoras en experiencia de usuario
+- Diseño accesible
+
+---
+
+## 📁 Proyectos destacados
+- [Nombre del proyecto 1](#) – Descripción breve
+- [Nombre del proyecto 2](#) – Descripción breve
+
+---
+
+## 📫 ¿Quieres contactarme?
+Puedes escribirme a: **[tu correo]**  
+O encontrarme en:
+- [LinkedIn](#)
+- [GitHub](#)
+
+---
+
+> _Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones._
+
