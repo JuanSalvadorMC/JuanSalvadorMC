@@ -1,46 +1,79 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Juan Salvador Martínez Cervantes - GitHub Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      margin: 40px;
+      max-width: 900px;
+    }
+    h1, h2 {
+      color: #5a2a83;
+    }
+    a {
+      color: #a63296;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style-type: square;
+    }
+    .seccion {
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>👋 ¡Hola! Soy Juan Salvador Martínez Cervantes</h1>
+  <p><strong>Desarrollador Frontend</strong> | Especializado en Angular y Arquitectura Web</p>
 
-<div>
-
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-
-<h2> / about me /</h2>
-  
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
-  
-<h2> / current skills / </h2>
-  
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-  
-- <h4> frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
-  
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-  
-  </br></br>
-  
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+  <div class="seccion">
+    <h2>🚀 Tecnologías que domino</h2>
+    <ul>
+      <li>Angular (incl. Angular 19 y Signals)</li>
+      <li>HTML5, CSS3, JavaScript, TypeScript</li>
+      <li>Atomic Design, Responsive Design</li>
+      <li>Microservicios, Microfrontends, Clean Code</li>
+      <li>CI/CD con GitHub Actions y GitLab CI/CD</li>
+      <li>Jasmine, Karma para testing</li>
+      <li>Git, GitHub</li>
+    </ul>
   </div>
+
+  <div class="seccion">
+    <h2>🧠 Actualmente aprendiendo</h2>
+    <ul>
+      <li>Inglés (Duolingo + Anki)</li>
+      <li>Mejoras en experiencia de usuario</li>
+      <li>Diseño accesible</li>
+    </ul>
   </div>
 
-------
-Credit: [zillastar](https://github.com/zillastar)
+  <div class="seccion">
+    <h2>📁 Proyectos destacados</h2>
+    <ul>
+      <li><a href="#">Nombre del proyecto 1</a> – Descripción breve</li>
+      <li><a href="#">Nombre del proyecto 2</a> – Descripción breve</li>
+    </ul>
+  </div>
 
-Last Edited on: 12/11/2022
+  <div class="seccion">
+    <h2>📫 ¿Quieres contactarme?</h2>
+    <p>Puedes escribirme a: <strong>[tu correo]</strong></p>
+    <p>O encontrarme en:</p>
+    <ul>
+      <li><a href="#">LinkedIn</a></li>
+      <li><a href="#">GitHub</a></li>
+    </ul>
+  </div>
+
+  <p><em>Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones.</em></p>
+</body>
+</html>
