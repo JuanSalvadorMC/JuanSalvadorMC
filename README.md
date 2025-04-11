@@ -77,10 +77,9 @@
 
 <h3>🚨 No te dejes engañar por mi baja actividad en GitHub. La mayoría de mis proyectos se encuentran en repositorios privados. Si deseas ver ejemplos de mi trabajo, puedes visitar mi portafolio:
 </h3>
- <a href=" https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port/"> Juan Salvador Martínez Portafolio 🚀</a>
  <hr>
 
 <h2 class="centrado"><em>Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones.</em></h2>
-
+<br>
 </body>
 </html>
