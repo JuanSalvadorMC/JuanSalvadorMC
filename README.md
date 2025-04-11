@@ -8,7 +8,7 @@
 <body>
 
 <h1>👋 ¡Hola! Soy Juan Salvador Martínez Cervantes</h1>
-<h3>Desarrollador Frontend especializado en Angular y Arquitectura Web</h3>
+<h3>"Ingeniero de Software - Desarrollador Frontend - Desarrollador Web</h3>
 
 <div class="seccion centrado">
   <p>Ingeniero en Sistemas Computacionales con 5 años de experiencia en desarrollo web y enfoque en frontend. Apasionado por crear interfaces accesibles, eficientes y escalables. He trabajado con Angular, microservicios, microfrontends, despliegue continuo y tecnologías modernas de JavaScript.</p>
@@ -33,7 +33,6 @@
     <img src="https://skillicons.dev/icons?i=php" alt="PHP">
     <img src="https://skillicons.dev/icons?i=java" alt="Java">
     <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET">
-    <img src="https://skillicons.dev/icons?i=csharp" alt="C#">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux">
     <img src="https://skillicons.dev/icons?i=react" alt="React">
@@ -74,6 +73,10 @@
 <div class="centrado">
   <img style="max-width: 300px;" src="https://rath.mac-softins.com/imgpublic/oficialpage/consultoria-it.gif" width="70%" alt="Consultoría IT">
 </div>
+
+<p>🚨 No te dejes engañar por mi baja actividad en GitHub. La mayoría de mis proyectos se encuentran en repositorios privados. Si deseas ver ejemplos de mi trabajo, puedes visitar mi portafolio:
+  <a href=" https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port/"> Juan Salvador Martínez Portafolio 🚀</a>
+</p>
 
 <p class="centrado"><em>Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones.</em></p>
 
