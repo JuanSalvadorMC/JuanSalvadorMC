@@ -3,45 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Juan Salvador Martínez Cervantes - Perfil de GitHub</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      margin: 40px;
-      max-width: 900px;
-    }
-    h1, h2, h3 {
-      color: #5a2a83;
-      text-align: center;
-    }
-    a {
-      color: #a63296;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style-type: square;
-    }
-    .seccion {
-      margin-bottom: 30px;
-    }
-    .tecnologias img {
-      width: 40px;
-      margin: 5px;
-    }
-    .centrado {
-      text-align: center;
-    }
-    .contacto-iconos img {
-      width: 20px;
-      vertical-align: middle;
-      margin-right: 5px;
-    }
-  </style>
+
 </head>
 <body>
 
