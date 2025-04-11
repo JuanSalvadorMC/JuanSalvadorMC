@@ -75,7 +75,7 @@
   <img style="max-width: 300px;" src="https://rath.mac-softins.com/imgpublic/oficialpage/consultoria-it.gif" width="70%" alt="Consultoría IT">
 </div>
 
-<h3>🚨 No te dejes engañar por mi baja actividad en GitHub. La mayoría de mis proyectos se encuentran en repositorios privados. Si deseas ver ejemplos de mi trabajo, puedes visitar mi portafolio:
+<h3>🚨 No te dejes engañar por mi baja actividad en GitHub. La mayoría de mis proyectos se encuentran en repositorios privados. Si deseas ver ejemplos de mi trabajo, puedes visitar mi portafolio.
 </h3>
  <hr>
 
