@@ -11,7 +11,7 @@
 <h3>"Ingeniero de Software - Desarrollador Frontend - Desarrollador Web</h3>
 
 <div class="seccion centrado">
-  <p>Ingeniero en Sistemas Computacionales con 5 años de experiencia en desarrollo web y enfoque en frontend. Apasionado por crear interfaces accesibles, eficientes y escalables. He trabajado con Angular, microservicios, microfrontends, despliegue continuo y tecnologías modernas de JavaScript.</p>
+  <p>Ingeniero en Sistemas Computacionales con 5 años de experiencia en desarrollo web y enfoque en frontend. Apasionado por crear interfaces accesibles, eficientes y escalables. He trabajado con Angular, React, Ionic, Java Script vanilla, microservicios, microfrontends, despliegue continuo y tecnologías modernas de JavaScript.</p>
 </div>
 
 <div class="seccion">
@@ -41,7 +41,9 @@
 
 <div class="seccion">
   <h2>📁 Experiencia profesional</h2>
-  <p class="centrado">Tengo una sólida trayectoria como desarrollador frontend, con experiencia reciente trabajando en una empresa líder en transacciones de pago en línea, donde lideré el desarrollo de aplicaciones web utilizando Angular 19, configurando microfrontends, consumo de servicios REST, autenticación y manejo avanzado de estado con Redux y Signals. Previamente, contribuí en el desarrollo de aplicaciones internas con Angular 12 a 17, JSPs y PL/SQL, participando en diseño de bases de datos, procedimientos almacenados y control de versiones. Mi carrera comenzó en Casa Mecate S.A. de C.V., donde desarrollé aplicaciones móviles con Ionic, soluciones web con PHP y Angular, y colaboré en la administración de bases de datos. En todas mis experiencias he realizado pruebas unitarias, documentado soluciones, y participado activamente en revisiones de código y herramientas de calidad.</p>
+  <p class="centrado">Tengo una sólida trayectoria como desarrollador frontend, con experiencia reciente trabajando en una empresa líder en transacciones de pago en línea, donde lideré el desarrollo de aplicaciones web utilizando Angular 19, configurando microfrontends, consumo de servicios REST, autenticación y manejo avanzado de estado con Redux y Signals. Previamente, contribuí en el desarrollo de aplicaciones internas con Angular 12 a 17, JSPs y PL/SQL, 
+    participando en diseño de bases de datos, procedimientos almacenados y control de versiones. 
+    Mi carrera comenzó con una empresa freelance, donde desarrollé aplicaciones móviles con Ionic, soluciones web con PHP, phyton y Angular, y colaboré en la administración de bases de datos. En todas mis experiencias he realizado pruebas unitarias, documentado soluciones, y participado activamente en revisiones de código y herramientas de calidad.</p>
 </div>
 
 <div class="seccion">
@@ -61,12 +63,12 @@
 
 <div class="seccion">
   <h2>📫 ¿Quieres contactarme?</h2>
-  <p><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16" /> <strong>j.salvador.martinez.cervantes@gmail.com</strong></p>
+  <p><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16" />_ <strong>j.salvador.martinez.cervantes@gmail.com</strong></p>
   <p>O encontrarme en:</p>
   <ul class="contacto-iconos">
-    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /><a href="https://linkedin.com/in/juanmartinezcervantes"> LinkedIn</a></li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" /><a href="https://github.com/juanmartinezcervantes"> GitHub</a></li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" /><a href="https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port"> Portafolio</a></li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /><a href="https://linkedin.com/in/juanmartinezcervantes">. LinkedIn</a></li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" /><a href="https://github.com/juanmartinezcervantes">. GitHub</a></li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" /><a href="https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port">. Portafolio</a></li>
   </ul>
 </div>
 
@@ -74,11 +76,11 @@
   <img style="max-width: 300px;" src="https://rath.mac-softins.com/imgpublic/oficialpage/consultoria-it.gif" width="70%" alt="Consultoría IT">
 </div>
 
-<p>🚨 No te dejes engañar por mi baja actividad en GitHub. La mayoría de mis proyectos se encuentran en repositorios privados. Si deseas ver ejemplos de mi trabajo, puedes visitar mi portafolio:
+<h1>🚨 No te dejes engañar por mi baja actividad en GitHub. La mayoría de mis proyectos se encuentran en repositorios privados. Si deseas ver ejemplos de mi trabajo, puedes visitar mi portafolio:
   <a href=" https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port/"> Juan Salvador Martínez Portafolio 🚀</a>
-</p>
+</h1>
 
-<p class="centrado"><em>Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones.</em></p>
+<h1 class="centrado"><em>Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones.</em></h1>
 
 </body>
 </html>
