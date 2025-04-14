@@ -66,8 +66,8 @@
   <p><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16" />:  <strong>j.salvador.martinez.cervantes@gmail.com</strong></p>
   <p>O encontrarme en:</p>
   <ul class="contacto-iconos">
-    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /><a href="https://www.linkedin.com/in/juan-salvador-martinez-cervantes-4b22722b8/">:  LinkedIn</a></li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" /><a href="https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port/">:  Portafolio</a></li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /><a href="https://www.linkedin.com/in/juan-salvador-martinez-cervantes-4b22722b8/"  target="_blank">  LinkedIn</a></li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" /><a href="https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port/"  target="_blank">  Portafolio</a></li>
   </ul>
 </div>
 
@@ -77,7 +77,7 @@
 
 <h3>🚨 No te dejes engañar por mi baja actividad en GitHub. La mayoría de mis proyectos se encuentran en repositorios privados. Si deseas ver ejemplos de mi trabajo, puedes visitar mi portafolio.
 </h3>
-<a href="https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port/">:  Portafolio </a> https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port/
+<a href="https://juansalvadormc.github.io/Juan-Salvador-Martinez-Port/"  target="_blank">  Portafolio JuanSalvadorMC</a> 
  <hr>
 
 <h2 class="centrado"><em>Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones.</em></h2>
