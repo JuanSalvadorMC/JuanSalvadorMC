@@ -8,7 +8,7 @@
 <body>
 
 <h1>👋 ¡Hola! Soy Juan Salvador Martínez Cervantes</h1>
-<h3>"Ingeniero de Software - Desarrollador Frontend - Desarrollador Web</h3>
+<h3>"Ingeniero de Software - Desarrollador Frontend - Desarrollador Web"</h3>
 
 <div class="seccion centrado">
   <p>Ingeniero en Sistemas Computacionales con 5 años de experiencia en desarrollo web y enfoque en frontend. Apasionado por crear interfaces accesibles, eficientes y escalables. He trabajado con Angular, React, Ionic, Java Script vanilla, microservicios, microfrontends, despliegue continuo y tecnologías modernas de JavaScript.</p>
@@ -63,7 +63,7 @@
 
 <div class="seccion">
   <h2>📫 ¿Quieres contactarme?</h2>
-  <p><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16" />:  <strong>j.salvador.martinez.cervantes@gmail.com</strong></p>
+  <p><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16" />  <strong>j.salvador.martinez.cervantes@gmail.com</strong></p>
   <p>O encontrarme en:</p>
   <ul class="contacto-iconos">
     <li><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /><a href="https://www.linkedin.com/in/juan-salvador-martinez-cervantes-4b22722b8/"  target="_blank">  LinkedIn</a></li>
